@@ -1,0 +1,25 @@
+
+
+    .contain{
+        width: 100%;
+        margin: auto;
+    };
+
+    .BROWSECATEGORIES{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: space-between;
+        align-items: center;
+    };
+    .BROWSECATEGORIES_LEFT{
+        width:100%;
+        background-color: darkblue;
+    };
+    .BROWSECATEGORIES_RIGHT{
+        width:100%;
+        background-color: gray;
+    };
+  
